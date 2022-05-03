@@ -1,0 +1,5 @@
+db._createDatabase("rahamdb")
+db._databases
+db._databases()
+db._createDatabase("ramesh")
+db._databases()
