@@ -1,0 +1,10 @@
+exit
+show dbs
+db.createCollection("ramesh")
+use ramesh
+show collections
+db.createCollection("raham")
+db.createCollection("raham" db.createCollection("raham")
+use raham
+show dbs
+show dbs()
